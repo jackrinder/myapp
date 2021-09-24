@@ -20,6 +20,12 @@
       },
       "auth": {
         "myapp1457b275": {}
+      },
+      "function": {
+        "myLamApiFunc": {
+          "deploymentBucketName": "amplify-myapp-dev-03154-deployment",
+          "s3Key": "amplify-builds/myLamApiFunc-39505066763634537839-build.zip"
+        }
       }
     }
   }
